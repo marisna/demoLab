@@ -1,0 +1,1 @@
+py realtimeDetect.py --dir_path=../openpose/build/examples/tutorial_api_python --video=0
